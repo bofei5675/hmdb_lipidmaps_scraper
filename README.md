@@ -7,4 +7,9 @@ Prerequesite:
 * Package such as urlib,bs4,pandas,sqlalchemy
 * RaMP database installed (or you need to have all hmdb metabolites ID to looking at single websites)
 
+Update at 4/30/2018
+Then, about 5000 metabolites have LIMPIDMAPS ID, and they are imported to RaMP.
 
+
+### Author
+Bofei Zhang (zhang.5675@osu.edu)
