@@ -10,6 +10,11 @@ Prerequesite:
 Update at 4/30/2018
 Then, about 5000 metabolites have LIMPIDMAPS ID, and they are imported to RaMP.
 
+### Run the script to get lipidmaps id
+1. Run web crawler in script hmdb_lipidmaps.py to grab all ids (takes about 1 week)
+2. Filter out duplicates and NA returned by crawler
+3. Run the script in uploadLPid.py to import the filtered metabolites ID into RaMP
+
 
 ### Author
 Bofei Zhang (zhang.5675@osu.edu)
